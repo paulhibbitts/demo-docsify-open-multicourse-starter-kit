@@ -32,7 +32,7 @@ Zoom 1-on-1 Office Hours:
 </div>
 </div>
 
-![Special Topic Image](../../assets/images/course-2/dave-hoefler-vl2uAIdBWJ8-unsplash.jpg ':class=banner-image')
+![Special Topic Image](../../assets/images/course-2/4642289926_7964e733d1_b.jpg ':class=banner-image')
 
 # What’s Happening Next Week 🔭
 
