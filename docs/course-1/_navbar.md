@@ -1,3 +1,4 @@
+* [Home](course-1/home.md)
 * [Schedule](course-1/schedule.md)
 * [Topics](course-1/topics.md)
 * [All Readings](course-1/readings.md)
