@@ -1,0 +1,7 @@
+* [Home](course-3/home.md)
+* [Schedule](course-3/schedule.md)
+* [Topics](course-3/topics.md)
+* [All Readings](course-3/readings.md)
+* [Resources](course-3/resources.md)
+* [UX Techniques Guide](course-3/ux-techniques-guide.md)
+* [Contact Paul/TAs](course-3/contact.md)
