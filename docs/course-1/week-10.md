@@ -1,4 +1,4 @@
-![Type on Page](../../assets/images/shared/4762082009_e0754cd5c3_b.jpg ':class=banner-image')
+![Type on Page](../../assets/images/common/4762082009_e0754cd5c3_b.jpg ':class=banner-image')
 
 # What are the essentials of visual interface design?
 

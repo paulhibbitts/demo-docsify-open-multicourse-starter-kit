@@ -1,4 +1,4 @@
-![Usability Test](../../assets/images/shared/4642289926_7964e733d1_b.jpg ':class=banner-image')
+![Usability Test](../../assets/images/common/4642289926_7964e733d1_b.jpg ':class=banner-image')
 
 # How to conduct a user interface inspection?
 

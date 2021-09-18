@@ -1,4 +1,4 @@
-![Prototype Drawings](../../assets/images/shared/amelie-mourichon-YHNOwnrDzjY-unsplash.jpg ':class=banner-image')
+![Prototype Drawings](../../assets/images/common/amelie-mourichon-YHNOwnrDzjY-unsplash.jpg ':class=banner-image')
 
 # Instructor Design Reviews
 
