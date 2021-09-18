@@ -1,4 +1,4 @@
-![Abstract Image](../../assets/images/course-2/dave-hoefler-vl2uAIdBWJ8-unsplash.jpg ':class=banner-image')
+![Abstract Image](../../assets/images/shared/dave-hoefler-vl2uAIdBWJ8-unsplash.jpg ':class=banner-image')
 
 # Special topic — heuristic evaluations
 

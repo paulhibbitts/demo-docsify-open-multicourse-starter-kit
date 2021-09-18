@@ -1,4 +1,4 @@
-![Device Controls](../../assets/images/course-2/13255989495_f545afea09_o.jpg ':class=banner-image')
+![Device Controls](../../assets/images/shared/13255989495_f545afea09_o.jpg ':class=banner-image')
 
 # How to bridge the gap between the problem space and design space?
 

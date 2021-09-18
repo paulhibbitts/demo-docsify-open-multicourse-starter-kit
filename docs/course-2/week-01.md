@@ -1,4 +1,4 @@
-![UX - User Experience](../../assets/images/course-2/12650723674_d5c85af332_k.jpg ':class=banner-image')
+![UX - User Experience](../../assets/images/shared/12650723674_d5c85af332_k.jpg ':class=banner-image')
 
 # What is usability and user experience design?
 
@@ -28,7 +28,7 @@
 
 ## CMPT-363 UX Design Process ([Double Diamond](https://en.wikipedia.org/wiki/Double_Diamond_(design_process_model)))
 
-![Double Diamond (British Design Council)](../../assets/images/course-2/Double_diamond.png)
+![Double Diamond (British Design Council)](../../assets/images/shared/Double_diamond.png)
 
 ## Downloads
 

@@ -1,4 +1,4 @@
-![Abstract Image](../../assets/images/course-3/dave-hoefler-vl2uAIdBWJ8-unsplash.jpg ':class=banner-image')
+![Abstract Image](../../assets/images/shared/dave-hoefler-vl2uAIdBWJ8-unsplash.jpg ':class=banner-image')
 
 # Special topics — visual interface design
 

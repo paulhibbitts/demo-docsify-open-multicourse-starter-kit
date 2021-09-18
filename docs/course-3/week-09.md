@@ -1,4 +1,4 @@
-![Sketchpad](../../assets/images/course-3/4328394839_e632f7c98d_b.jpg ':class=banner-image')
+![Sketchpad](../../assets/images/shared/4328394839_e632f7c98d_b.jpg ':class=banner-image')
 
 # Instructor Design Scenarios and Storyboard Mockups Meetings
 

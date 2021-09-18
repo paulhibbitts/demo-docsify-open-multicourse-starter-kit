@@ -1,4 +1,4 @@
-![Multiple Mobile Devices](../../assets/images/course-3/16230041026_d438eb2482_k.jpg ':class=banner-image')
+![Multiple Mobile Devices](../../assets/images/shared/16230041026_d438eb2482_k.jpg ':class=banner-image')
 
 # What is the practice of multi-device interaction design?
 

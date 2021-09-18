@@ -2,5 +2,5 @@
 * [Schedule](course-2/schedule.md)
 * [Topics](course-2/topics.md)
 * [All Readings](course-2/readings.md)
-* [UX Techniques Guide](course-2/ux-techniques-guide.md)
+* [Resources](course-2/resources.md)
 * [Contact Paul/TAs](course-2/contact.md)

@@ -1,4 +1,4 @@
-![Coffee Shop](../../assets/images/course-3/13966760787_2d0975e6bc_k.jpg ':class=banner-image')
+![Coffee Shop](../../assets/images/shared/13966760787_2d0975e6bc_k.jpg ':class=banner-image')
 
 # How to understand and communicate people's needs and behaviours?
 

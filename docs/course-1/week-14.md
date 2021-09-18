@@ -1,4 +1,4 @@
-![SFU](../../assets/images/course-1/1406322240943.jpg ':class=banner-image')
+![SFU](../../assets/images/shared/1406322240943.jpg ':class=banner-image')
 
 # Course Wrap-up
 
